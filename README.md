@@ -6,8 +6,8 @@
 
 <div style="display:inline_block"><br>
   <a href="https://github.com/danielKulka" target="_blank">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&theme=prussian&incluide_all_commits=true">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&langs-count=16&theme=prussian">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&theme=prussian&incluide_all_commits=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&langs-count=16&theme=prussian">
   </a>
 </div>  
 <div style="display:inline_block"><br>
@@ -23,7 +23,7 @@
 
 <div style="display:inline_block"><br>
     <a href="https://www.codewars.com/users/Daniel%20Kulka" ><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/daniel-kulka-538099189/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/daniel-kulka-538099189/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="mailto:kulkad13@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
