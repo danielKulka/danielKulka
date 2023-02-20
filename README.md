@@ -4,7 +4,7 @@
 ## Olá!!
 
 
-<div><br>
+<div style="display:inline_block"><br>
   <a href="https://github.com/danielKulka" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&theme=prussian&incluide_all_commits=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&langs-count=16&theme=prussian">
