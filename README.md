@@ -1,8 +1,5 @@
 <h1>Olá!!</h1>
-  
-  <p>Bem vindo(a) ao meu perfil do github</p>
-
-
+ 
 <div style="display:inline_block"><br>
   <a href="https://github.com/danielKulka" target="_blank">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&theme=prussian&incluide_all_commits=true">
