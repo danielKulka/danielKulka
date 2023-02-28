@@ -18,7 +18,6 @@
 </div>
 
 <div style="display:inline_block"><br>
-    <a href="https://www.codewars.com/users/Daniel%20Kulka" ><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/daniel-kulka-538099189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kulkad13@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
