@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2563eb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Prazer!!;Me+chamo+Daniel+Kulka;Tenho+25+anos;Sou+estudante+de+web+development;Faço+Engenharia++de+software:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<div>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&theme=prussian&hide_border=true" alt="danielKulka github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&theme=prussian&hide_border=true&compact_layout=true" />
 </div>
