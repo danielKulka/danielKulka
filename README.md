@@ -3,7 +3,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&theme=prussian&hide_border=true" alt="danielKulka github stats" /> 
-   <img width="50%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&theme=prussian&hide_border=true" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&theme=prussian&hide_border=true&compact_layout=true" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielKulka&bg_color=0d1117&color=2563eb&line=3b82f6&point=22c55e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
