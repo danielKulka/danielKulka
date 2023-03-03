@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2563eb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Prazer!!;Me+chamo+Daniel+Kulka;Tenho+25+anos;Sou+estudante+de+web+development;Faço+Engenharia++de+software:%29)](https://git.io/typing-svg)
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&title_color=2563eb&icon_color=22c55ea4&text_color=FFFFE0&bg_color=0d1117&hide_border=true" alt="danielKulka github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&hide_border=true&title_color=2563eb&text_color=FFFFE0a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielKulka&show_icons=true&title_color=2563eb&icon_color=22c55ea4&text_color=38bdf8&bg_color=transparent&hide_border=true" alt="danielKulka github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&hide_border=true&title_color=2563eb&text_color=38bdf8&bg_color=transparent" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielKulka&bg_color=0d1117&color=2563eb&line=3b82f6&point=22c55e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielKulka&bg_color=transparent&color=2563eb&line=3b82f6&point=22c55e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display:inline_block" align="center"><br>
  <img aling="center" alt"CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
