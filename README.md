@@ -17,14 +17,6 @@
  <img aling="center" alt"vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
 </div>
 
-
-  
-  <div align="center">
-<br><p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{danielKulka}/count.svg" /></p> 
-<br>
-</div>
-
 <div style="display:inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/daniel-kulka-538099189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kulkad13@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
