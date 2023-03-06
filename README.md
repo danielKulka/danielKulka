@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2563eb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Prazer!!;Me+chamo+Daniel+Kulka;Tenho+25+anos;Sou+estudante+de+web+development;Faço+Engenharia++de+software:%29)](https://git.io/typing-svg)
 
