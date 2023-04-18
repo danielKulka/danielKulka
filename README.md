@@ -3,8 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2563eb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Prazer!!;Me+chamo+Daniel+Kulka;Tenho+25+anos;Sou+estudante+de+web+development;Faço+Engenharia++de+software:%29)](https://git.io/typing-svg)
 
 <div style="display:inline_block" align="center"><br>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&hide_border=true&title_color=2563eb&text_color=38bdf8&bg_color=00000000&PAT_1" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielKulka&layout=compact&title_color=2563eb&text_color=38bdf8&bg_color=00000000&hide_border=true&PAT_1" />
 </div>
+
+
 
 <div style="display:inline_block" align="center"><br>
  <img aling="center" alt"CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
