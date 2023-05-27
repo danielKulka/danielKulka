@@ -22,9 +22,6 @@
     <a href="https://www.linkedin.com/in/daniel-kulka-538099189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kulkad13@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielKulka&bg_color=transparent&color=2563eb&line=3b82f6&point=22c55e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=footer"/>
  
